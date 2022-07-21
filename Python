@@ -1,1 +1,12 @@
+1)You will be seeing this print function very frequently in python programming. It helps us to see what exactly is happening in our code.
+Try to run the next lines of code and see what happens next:We use print to display data on screen. Example: print("Hello World!")
+
+2)Understanding variables is very important in any programming language they are used all the time in python. 
+Using variables in place of direct numbers have many advantages. 
+Variables are used to store information to be referenced and manipulated in a computer program.
+here in this example below the variable name is month, the equal sign is the assignment operator and the value of the variable is 12.
+Example:
+month=12;
+
+3)We require variables so that we can represent the data and also change it later if needed.
 
